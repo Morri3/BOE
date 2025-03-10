@@ -1,2 +1,4 @@
-# BOE
-2022BOE画屏内容管理系统
+# BOE Electronic Screen Content Management System
+This is the coursework during the undergraduate period in 2022.
+
+---
